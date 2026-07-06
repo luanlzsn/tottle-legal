@@ -1,6 +1,6 @@
-# Tottle — Legal & Support
+# Playku — Legal & Support
 
-Public privacy policy and support pages for **Tottle** (玩龄), an offline, no-ads, no-subscription daily play guide for parents of toddlers aged 12–36 months.
+Public privacy policy and support pages for **Playku** (玩龄), an offline, no-ads, no-subscription daily play guide for parents of toddlers aged 12–36 months.
 
 App Store: _(to be filled in after release)_
 
@@ -18,7 +18,7 @@ App Store: _(to be filled in after release)_
 
 ## About these documents
 
-Both policies are written based on Tottle's actual implementation:
+Both policies are written based on Playku's actual implementation:
 
 - **Fully on-device.** Your child's nickname and birthday, play logs, favorites and milestone notes are stored only on your device. We have no servers.
 - **No data collection.** We do not collect, upload, or store any of your personal data.
@@ -29,4 +29,4 @@ Effective date: **July 3, 2026**
 
 ## License
 
-The text in this repository is published as documentation accompanying the Tottle iOS app. It may be referenced and quoted for understanding the app's privacy/usage terms; please do not present it as the terms of any other product.
+The text in this repository is published as documentation accompanying the Playku iOS app. It may be referenced and quoted for understanding the app's privacy/usage terms; please do not present it as the terms of any other product.
